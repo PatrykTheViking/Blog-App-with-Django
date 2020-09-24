@@ -1,0 +1,1 @@
+# Advanced Blog App created with Django
